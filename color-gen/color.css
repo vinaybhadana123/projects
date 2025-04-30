@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+    background: linear-gradient(to right, red, yellow);
+    text-transform: uppercase; 
+    font-family: Arial, Helvetica, sans-serif
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 30px;
+  }
+  
+  h2 {
+    letter-spacing: 10px;
+  }
+  
+  input {
+    padding: 0;
+    width: 80px;
+    height: 40px;
+    border: 0;
+    margin: 5px;
+    -webkit-box-shadow: 0px 0px 40px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 40px 5px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 40px 5px rgba(0,0,0,0.75);
+  }
+  
+  .h3css {
+    text-transform: lowercase;
+  }
